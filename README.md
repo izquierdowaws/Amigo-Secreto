@@ -1,4 +1,4 @@
-# Desafio Alura Amigo Secreto (Equipo 8)
+# Desafio Alura Amigo Secreto (Grupo 8)
 
 Con este desafío colocarás en práctica conceptos fundamentales de lógica de programación como variables, condicionales, funciones, listas y lazos de repetición; estos conceptos constituyen la base de cualquier lenguaje de programación, independientemente de su complejidad.
 
